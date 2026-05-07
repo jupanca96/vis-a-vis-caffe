@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@astrojs/cloudflare": "^13.3.1"
+  }
+}
